@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sandeepjak2007" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepjak2007?logo=twitter&style=for-the-badge" alt="Sandeep Karanam" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Jetpack Compose** and **Kotlin MultiPlatform**.
+- 🌱 I’m currently learning **Advance Jetpack Compose** and **Kotlin MultiPlatform** and **Swift & Swift-UI**.
 
 - 👨‍💻 Portfolio website [Sandeep Karanam](https://bio.link/sandeepkaranam)
 
