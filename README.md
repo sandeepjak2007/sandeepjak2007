@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepjak2007" alt="Sandeep Karanam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sandeepjak2007" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepjak2007?logo=twitter&style=for-the-badge" alt="Sandeep Karanam" /></a> </p>
+<p align="left"> <a href="https://x.com/sandeepjak" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepjak2007?logo=twitter&style=for-the-badge" alt="Sandeep Karanam" /></a> </p>
 
 - 🌱 I’m currently learning **Advance Jetpack Compose** and **Kotlin MultiPlatform** and **Swift & Swift-UI**.
 
